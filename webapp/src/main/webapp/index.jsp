@@ -2,6 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning with Pepi</h1>
     <p>Please fill in this form to create an account.</p>
+    <p>LLena el formulario para crear una cuenta</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
